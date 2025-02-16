@@ -6,4 +6,4 @@
 
 - **rpm install react**
 
-- Sietema de Registro 2
+- Sistema de Registro 2

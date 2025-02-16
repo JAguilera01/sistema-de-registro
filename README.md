@@ -5,3 +5,5 @@
 - Para ejecutar el Sistema, debes poner:
 
 - **rpm install react**
+
+- Sietema de Registro 2
